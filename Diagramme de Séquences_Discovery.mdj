@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmFyHOx5Q9kfs="
 							},
-							"name": "SequenceDiagram1",
+							"name": "Discovery",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -46,9 +46,9 @@
 											"font": "Arial;13;0",
 											"left": 75.97900390625,
 											"top": 10,
-											"width": 115.9052734375,
+											"width": 58.0654296875,
 											"height": 13,
-											"text": "SequenceDiagram1"
+											"text": "Discovery"
 										},
 										{
 											"_type": "LabelView",
